@@ -1,0 +1,11 @@
+# 📌 2. requirements.txt
+
+```text id="req1"
+biopython
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# 📌 2. Author
+Alaa Elsaid Elhadidy
